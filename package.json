@@ -1,0 +1,22 @@
+{
+  "name": "By2Coding",
+  "displayName": "By2Coding",
+  "description": "",
+  "version": "1.0.0",
+  "publisher": "byy",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "byy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/byy-color-theme.json"
+      }
+    ]
+  }
+}
